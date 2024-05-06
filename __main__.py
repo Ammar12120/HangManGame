@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from players import *
 from hangmanGame import HMGame
 
